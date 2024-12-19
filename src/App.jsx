@@ -3,7 +3,8 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1> LAB | React Training</h1>
+      <h1> 0 Likes</h1>
+      <button>Like</button>
     </div>
   );
 }
